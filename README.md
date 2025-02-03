@@ -86,8 +86,9 @@ This project is **open-source** and available under the [MIT License](https://ra
 
 ## 💡 Contact
 For any questions or support, feel free to reach out:
-- GitHub: [GamerBhushan](https://github.com/GamerBhushan)
-- Email: [Your Email Here]
+- GitHub : [GamerBhushan](https://github.com/GamerBhushan)
+- Instagram : [bhushankumavat_](https://www.instagram.com/bhushankumavat_/)
+- LinkedIn : [bhushankumavat](https://in.linkedin.com/in/bhushankumavat?trk=people-guest_people_search-card)
 
 ---
 
