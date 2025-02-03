@@ -29,26 +29,26 @@ Follow these steps to run the project locally:
 
 
 
-### 1⃣ **Clone the Repository**
+### 1 **Clone the Repository**
 ```sh
 npm install -g bun
 git clone https://github.com/GamerBhushan/Weather-App-React.git
 cd Weather-App-React
 ```
 
-### 2⃣ **Install Dependencies**
+### 2 **Install Dependencies**
 ```sh
 bun install  
 ```
 
-### 3⃣ **Set Up API Key**
+### 3 **Set Up API Key**
 - Create an account on [Geocoding API](https://geocode.maps.co/) and get your API key.
 - Create a `.env` file in the root directory and add:
   ```sh
   VITE_GEOCODE_API_KEY=your_api_key_here
   ```
 
-### 4⃣ **Run the Project**
+### 4 **Run the Project**
 ```sh
 bun run dev  
 ```
