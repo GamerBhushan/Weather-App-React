@@ -11,7 +11,7 @@ A fast and seamless Weather App built with **React, Vite & TypeScript**. It prov
 - 🔄 Fast performance with **Vite**.
 - 🔧 Built with **TypeScript** for better type safety.
 - 🎨 Fully responsive UI.
-- 🛠️ API integration with OpenWeatherMap.
+- 🛠️ API integration with [Geocoding API](https://geocode.maps.co/) And [Open Metro](https://open-meteo.com/)
 
 ---
 
