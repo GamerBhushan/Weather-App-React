@@ -7,7 +7,7 @@ A fast and seamless Weather App built with **React, Vite & TypeScript**. It prov
 
 ## TASK 1
 
-![S1](https://raw.githubusercontent.com/GamerBhushan/Weather-App-React/refs/heads/Bhushan/public/images/ss/Taks_1.png)
+![TASK 1](https://raw.githubusercontent.com/GamerBhushan/Weather-App-React/refs/heads/Bhushan/public/images/ss/Task_1.png)
 
 ---
 
